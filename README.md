@@ -7,41 +7,41 @@ For each folder is a sub-materials, will try to add a functionality that will ma
 
 ## python
 
-[pandasql](./python/python_labs/pandasql.md)
+[python/python_labs/pandasql.md](./python/python_labs/pandasql.md)
 
 
 ## big_data
 
-[zeppelin_basic](./big_data/framework/zeppelin/zeppelin_basic.md)
+[big_data/framework/zeppelin/zeppelin_basic.md](./big_data/framework/zeppelin/zeppelin_basic.md)
 
-[spark_starter](./big_data/framework/spark/spark_starter.md)
+[big_data/framework/spark/spark_starter.md](./big_data/framework/spark/spark_starter.md)
 
-[spark_tuning](./big_data/framework/spark/spark_tuning.md)
+[big_data/framework/spark/spark_tuning.md](./big_data/framework/spark/spark_tuning.md)
 
-[spark_structure_streaming](./big_data/framework/spark/spark_structure_streaming.md)
+[big_data/framework/spark/spark_structure_streaming.md](./big_data/framework/spark/spark_structure_streaming.md)
 
-[spark_basic](./big_data/framework/spark/spark_basic.md)
+[big_data/framework/spark/spark_basic.md](./big_data/framework/spark/spark_basic.md)
 
-[system_build_things](./big_data/concept_core/distributed_core/system_build_things.md)
+[big_data/concept_core/distributed_core/system_build_things.md](./big_data/concept_core/distributed_core/system_build_things.md)
 
-[distribute_for_bigdata](./big_data/concept_core/distributed_core/distribute_for_bigdata.md)
+[big_data/concept_core/distributed_core/distribute_for_bigdata.md](./big_data/concept_core/distributed_core/distribute_for_bigdata.md)
 
-[big_data_core](./big_data/concept_core/big_data/big_data_core.md)
+[big_data/concept_core/big_data/big_data_core.md](./big_data/concept_core/big_data/big_data_core.md)
 
-[CICD](./big_data/concept_core/micro_service/CICD.md)
+[big_data/concept_core/micro_service/CICD.md](./big_data/concept_core/micro_service/CICD.md)
 
-[concept](./big_data/concept_core/data_lake/concept.md)
+[big_data/concept_core/data_lake/concept.md](./big_data/concept_core/data_lake/concept.md)
 
-[hudi](./big_data/concept_core/data_lake/hudi.md)
+[big_data/concept_core/data_lake/hudi.md](./big_data/concept_core/data_lake/hudi.md)
 
 
 ## ai
 
-[kv_cache](./ai/LLM/optimization_for_llm/kv_cache.md)
+[ai/LLM/optimization_for_llm/kv_cache.md](./ai/LLM/optimization_for_llm/kv_cache.md)
 
-[page_attention](./ai/LLM/optimization_for_llm/page_attention.md)
+[ai/LLM/optimization_for_llm/page_attention.md](./ai/LLM/optimization_for_llm/page_attention.md)
 
-[ai_agent_senario](./ai/LLM/ai_agent/ai_agent_senario.md)
+[ai/LLM/ai_agent/ai_agent_sight.md](./ai/LLM/ai_agent/ai_agent_sight.md)
 
-[recommedation](./ai/real_world_problems/recommedation.md)
+[ai/real_world_problems/recommedation.md](./ai/real_world_problems/recommedation.md)
 

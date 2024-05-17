@@ -1,3 +1,4 @@
+"""This func should be enhanced!"""
 import os
 
 def get_md_files_dict(directory):
@@ -33,7 +34,7 @@ def get_md_files_dict(directory):
             for i, f in enumerate(files):
                 f_name = f.split('.')[0]
                 file_path = os.path.join(folder_path, f)
-                markdown_str += "[{}](./{})\n\n".format(f_name, file_path)
+                markdown_str += "[{}](./{})\n\n".format(file_path, file_path)
             
     return markdown_str
 

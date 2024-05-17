@@ -1,4 +1,4 @@
-## Ai agent senario
+## Ai agent sight
 
 
 ### ai agent都可以应用什么场景？
