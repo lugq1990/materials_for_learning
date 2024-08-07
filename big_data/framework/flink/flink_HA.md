@@ -1,5 +1,7 @@
 ## flink HA
 
+[**Flink HA with zookeeper setting**](https://nightlies.apache.org/flink/flink-docs-release-1.19/zh/docs/deployment/ha/zookeeper_ha/)
+
 
 ## Flink的高可用性
 
